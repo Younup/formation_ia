@@ -1,0 +1,11 @@
+python-dotenv
+ipykernel
+
+
+openai
+
+langgraph
+langchain 
+langchain-openai
+langchain-community
+langchain_mistralai

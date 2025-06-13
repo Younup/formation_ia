@@ -1,0 +1,15 @@
+Objet : Compte rendu réunion produit – 04/06
+
+Bonjour,
+
+Petit récap rapide de notre réunion de ce matin avec l’équipe mobile :
+
+- L’équipe Android a terminé le développement des notifications. Il ne reste que la phase de tests sur environnement de production.
+- Un bug persiste côté iOS sur la synchronisation du calendrier. C’est notre priorité du prochain sprint car plusieurs retours utilisateurs le confirment.
+- Le dark mode avance bien mais n’est pas prioritaire. L’essentiel du design a été fait.
+- Enfin, une mise à jour de l’API partenaire pour les événements est prévue. Il faudra adapter notre code avant la fin du mois pour éviter toute interruption de service.
+
+Je vous tiens au courant des avancées d’ici la fin de semaine prochaine.
+
+Bonne journée,  
+Clara
