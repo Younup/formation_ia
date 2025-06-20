@@ -6,8 +6,11 @@ uvicorn
 python-dotenv
 
 #AI
-
 langchain
 langchain-openai
 langchain-community
+langchain-tavily
 langgraph
+
+# Grpah png vizualisation
+graphviz

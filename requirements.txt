@@ -9,3 +9,13 @@ langchain
 langchain-openai
 langchain-community
 langchain_mistralai
+langchain_experimental # REPL tool
+
+
+pypdf #PDF handling
+langchain-qdrant # Vector database
+
+# Tools
+wikipedia
+youtube_search
+langfuse
