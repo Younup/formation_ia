@@ -1,4 +1,5 @@
 .env
 .venv
-
+_downloads_/*
+.gradio/*
 qdrant_data

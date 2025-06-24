@@ -19,3 +19,4 @@ langchain-qdrant # Vector database
 wikipedia
 youtube_search
 langfuse
+yt_dlp
