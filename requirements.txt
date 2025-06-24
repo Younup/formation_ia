@@ -14,6 +14,7 @@ langchain_experimental # REPL tool
 
 pypdf #PDF handling
 langchain-qdrant # Vector database
+langchain-tavily # Web search
 
 # Tools
 wikipedia
