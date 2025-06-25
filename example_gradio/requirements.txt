@@ -1,0 +1,7 @@
+gradio
+
+openai
+
+langchain 
+langchain-openai
+langchain-community
